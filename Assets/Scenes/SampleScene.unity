@@ -656,9 +656,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a311f82d15b25e48961a77a30e06812, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Xvalue: 0
-  Yvalue: 1
-  Zvalue: 0
+  speed: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
